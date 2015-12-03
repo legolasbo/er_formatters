@@ -1,5 +1,5 @@
 {
-  "name": "drupal/er_formatters",
+  "name": "legolasbo/er_formatters",
   "description": "Adds several formatters for entity reference fields.",
   "type": "drupal-module",
   "license": "GPL-2.0+",
