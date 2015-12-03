@@ -1,0 +1,8 @@
+name: Entityreference formatters
+description: Adds several formatters for entity reference fields.
+package: Field
+dependencies:
+  - field_group
+
+type: module
+core: 8.x
